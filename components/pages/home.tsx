@@ -87,9 +87,9 @@ export default function HomePage() {
             © 2025 All Rights Reserved.
           </p>
           <div className="mt-2 py-2 px-4 rounded-full bg-slate-50 border border-slate-100">
-            <Link href={'https://chirayusahu.com'}>
+            <Link href={'https://aaravgupta.vercel.app'} target="_blank" className="text-xs font-medium text-slate-500 hover:text-slate-700 transition-colors">
             <p className="text-xs font-medium text-slate-500">
-              Made with ❤️ by <span className="text-slate-900 font-bold">Chirayu Sahu</span>
+              Made with ❤️ by <span className="text-slate-900 font-bold">Aarav Gupta</span>
             </p>
             </Link>
           </div>
